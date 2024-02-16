@@ -18,7 +18,7 @@ function Info() {
                     <h1 style={{marginTop:'50px'}}>The project</h1>
                     <div className="col-6 justify-content-center align-content-center"><img src={imgRMInfo} alt={"Rick and Morty"} loading="lazy"/></div>
                     <div className="col-6"><p style={{fontFamily:"'Single Day',Lucida Sans",fontSize:'30px', color:'#78c850',marginTop:'30px'}}>This web application was created with Rick and Morty API available from "https://rickandmortyapi.com/". The aim is to provide various information about the characters of this TV series, such as: status, species, last known location,
-                        the place of origin where the character first appeared... and obviously whether they are alive or not.
+                        the place of origin ... and obviously whether they are alive or not.
                     </p></div> </div>
         </div>
 
