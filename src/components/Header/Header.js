@@ -33,9 +33,7 @@ const Header = (props) => {
             <Navbar expand="md">
                 <div className="container">
 
-                    <RouterLink to="/">
                         <img className={style.logo} src={logo} alt=""/>
-                    </RouterLink>
 
                     <NavbarToggler onClick={toggle}/>
 
