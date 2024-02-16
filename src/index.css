@@ -1,3 +1,14 @@
+@font-face {
+    font-family: 'Single Day';
+    src: local('Single Day'), url(./assets/Fonts/single-day-font/SingleDay-Regular.ttf) format('tff');
+    /
+}
+
+@font-face {
+    font-family: 'Rick_and_Morty';
+    src: local('Rick_and_Morty'), url(./assets/Fonts/rick_and_morty_/rick_and_morty.ttf) format('tff');
+}
+
 
 body {
     background-color: #010612;
