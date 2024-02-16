@@ -1,0 +1,41 @@
+.navBar {
+    background: #010612;
+    position: sticky;
+    width: 100%;
+    z-index: 9;
+    height: 178px;
+    margin-bottom: 70px;
+    border-bottom: solid 2px #78c850;
+}
+
+.logo {
+    max-width: 230px;
+    margin-top:-10px;
+    margin-left: -80px;
+    opacity: 0.80;
+}
+
+.navItem {
+    z-index: 9;
+    left: 34px;
+    margin-top:-90px;
+    margin-right: -70px;
+    margin-left: 140px;
+}
+.navItem a {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: "Single Day","Lucida Sans";
+    font-size: 30px;
+    color: #78c850 !important;
+}
+
+.navItem a:hover {
+    color: #00b5cd !important;
+}
+
+
+
+
+
+

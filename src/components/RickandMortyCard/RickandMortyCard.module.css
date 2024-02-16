@@ -1,0 +1,38 @@
+.card {
+    background-color:#010612;
+    margin-bottom: 40px;
+    transition: all .2s ease-in;
+    border-color: #78c850;
+}
+
+.img_card {
+    padding: 20px;
+    max-width: 230px;
+    margin: auto;
+    border-radius: 40px;
+}
+
+.title_card {
+    margin-bottom: 0;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-family: "Rick_and_Morty";
+    font-size: 40px;
+    color: #78c850;
+}
+
+.species_card {
+    margin-top: 20px;
+    color: #78c850;
+    font-family: "Single Day","Lucida Sans";
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.card:hover {
+    box-shadow: 0 15px 20px 5px rgba(120, 200, 80, 0.15), 0 15px 20px 5px rgba(120, 200, 80, 0.15);
+    transition: ease-out;
+}
+
+
+
