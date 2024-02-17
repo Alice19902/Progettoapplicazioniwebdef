@@ -1,7 +1,7 @@
 {
   "name": "untitled1",
   "version": "0.1.0",
-  "homepage": "https://Alice19902.github.io/Progettoapplicazioniwebdef/",
+  "homepage": "https://Alice19902.github.io/Progettoapplicazioniwebdef",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
