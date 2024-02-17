@@ -4,7 +4,8 @@ import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
 import App from './views/App/App';
-import {RMProvider} from "./components/Context/Context"
+import {RMProvider} from "./components/Context/Context";
+
 
 ReactDOM.render(
 
