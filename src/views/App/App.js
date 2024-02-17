@@ -5,9 +5,16 @@ import RickandMorty from "../RickandMorty/RickandMorty";
 import Info from "../Info/Info";
 import RickandMortyDetail from "../RickandMortyDetail/RickandMortyDetail";
 import Logo from "../../assets/images/RMHome.png";
+import React, { useEffect } from 'react';
 
 
 function App() {
+    useEffect(() => {
+        if (window.location.pathname === '/Progettoapplicazioniwebdef/') {
+            window.location.href = 'https://alice19902.github.io/';
+        }
+    }, []);
+
     const nav = [
         {url: "/", text: "Home", exact: true},
         {url: "/characters", text: "Characters", exact: false},
