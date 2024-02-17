@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Progettoapplicazioniwebdef/static/css/main.917de74f.css",
-    "main.js": "/Progettoapplicazioniwebdef/static/js/main.ed455ee4.js",
-    "static/js/453.330f00f2.chunk.js": "/Progettoapplicazioniwebdef/static/js/453.330f00f2.chunk.js",
-    "static/media/SingleDay-Regular.ttf": "/Progettoapplicazioniwebdef/static/media/SingleDay-Regular.b03a555b9b646676c723.ttf",
-    "static/media/RickandMortyInfo.png": "/Progettoapplicazioniwebdef/static/media/RickandMortyInfo.b839a017ff23f6262263.png",
-    "static/media/Rick_and_Morty.png": "/Progettoapplicazioniwebdef/static/media/Rick_and_Morty.360c08e6e65e2f5b10f9.png",
-    "static/media/RMHome.png": "/Progettoapplicazioniwebdef/static/media/RMHome.ff37806b0faf240f3940.png",
-    "static/media/unimib.jpg": "/Progettoapplicazioniwebdef/static/media/unimib.89c26fae21dd9d2a943e.jpg",
-    "static/media/disco.png": "/Progettoapplicazioniwebdef/static/media/disco.afc48ce88348cba6fc5c.png",
-    "static/media/rick_and_morty.ttf": "/Progettoapplicazioniwebdef/static/media/rick_and_morty.a5bad8e90ebe8ef35945.ttf",
-    "index.html": "/Progettoapplicazioniwebdef/index.html",
-    "main.917de74f.css.map": "/Progettoapplicazioniwebdef/static/css/main.917de74f.css.map",
-    "main.ed455ee4.js.map": "/Progettoapplicazioniwebdef/static/js/main.ed455ee4.js.map",
-    "453.330f00f2.chunk.js.map": "/Progettoapplicazioniwebdef/static/js/453.330f00f2.chunk.js.map"
+    "main.css": "/static/css/main.9ff6a784.css",
+    "main.js": "/static/js/main.d7789a1a.js",
+    "static/js/453.330f00f2.chunk.js": "/static/js/453.330f00f2.chunk.js",
+    "static/media/SingleDay-Regular.ttf": "/static/media/SingleDay-Regular.b03a555b9b646676c723.ttf",
+    "static/media/RickandMortyInfo.png": "/static/media/RickandMortyInfo.b839a017ff23f6262263.png",
+    "static/media/Rick_and_Morty.png": "/static/media/Rick_and_Morty.360c08e6e65e2f5b10f9.png",
+    "static/media/RMHome.png": "/static/media/RMHome.ff37806b0faf240f3940.png",
+    "static/media/unimib.jpg": "/static/media/unimib.89c26fae21dd9d2a943e.jpg",
+    "static/media/disco.png": "/static/media/disco.afc48ce88348cba6fc5c.png",
+    "static/media/rick_and_morty.ttf": "/static/media/rick_and_morty.a5bad8e90ebe8ef35945.ttf",
+    "index.html": "/index.html",
+    "main.9ff6a784.css.map": "/static/css/main.9ff6a784.css.map",
+    "main.d7789a1a.js.map": "/static/js/main.d7789a1a.js.map",
+    "453.330f00f2.chunk.js.map": "/static/js/453.330f00f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.917de74f.css",
-    "static/js/main.ed455ee4.js"
+    "static/css/main.9ff6a784.css",
+    "static/js/main.d7789a1a.js"
   ]
 }
