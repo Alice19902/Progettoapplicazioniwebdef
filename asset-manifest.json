@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Progettoapplicazioniwebdef/static/css/main.917de74f.css",
-    "main.js": "/Progettoapplicazioniwebdef/static/js/main.7600d394.js",
+    "main.js": "/Progettoapplicazioniwebdef/static/js/main.095fc292.js",
     "static/js/453.330f00f2.chunk.js": "/Progettoapplicazioniwebdef/static/js/453.330f00f2.chunk.js",
     "static/media/SingleDay-Regular.ttf": "/Progettoapplicazioniwebdef/static/media/SingleDay-Regular.b03a555b9b646676c723.ttf",
     "static/media/RickandMortyInfo.png": "/Progettoapplicazioniwebdef/static/media/RickandMortyInfo.b839a017ff23f6262263.png",
@@ -12,11 +12,11 @@
     "static/media/rick_and_morty.ttf": "/Progettoapplicazioniwebdef/static/media/rick_and_morty.a5bad8e90ebe8ef35945.ttf",
     "index.html": "/Progettoapplicazioniwebdef/index.html",
     "main.917de74f.css.map": "/Progettoapplicazioniwebdef/static/css/main.917de74f.css.map",
-    "main.7600d394.js.map": "/Progettoapplicazioniwebdef/static/js/main.7600d394.js.map",
+    "main.095fc292.js.map": "/Progettoapplicazioniwebdef/static/js/main.095fc292.js.map",
     "453.330f00f2.chunk.js.map": "/Progettoapplicazioniwebdef/static/js/453.330f00f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.917de74f.css",
-    "static/js/main.7600d394.js"
+    "static/js/main.095fc292.js"
   ]
 }
