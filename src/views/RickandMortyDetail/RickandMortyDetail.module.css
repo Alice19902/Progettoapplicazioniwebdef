@@ -1,6 +1,43 @@
 .p_detail {
-    font-family: "Single Day";
+    font-family: "Single Day", sans-serif;
     color: #78c850;
     font-size: 40px;
 }
+
+.nav_detail {
+    width: 100%;
+    display: flex;
+    margin-top: -180px;
+    justify-content: space-between;
+    padding: 4px;
+    text-transform: uppercase;
+}
+
+
+.prev {
+    padding-left: 0;
+}
+
+.next {
+    padding-right: 0;
+    margin-left: auto;
+}
+
+
+
+.navItem {
+     color: #78c850;
+ }
+
+.navItem:hover {
+    color: #010612;
+}
+
+
+
+
+
+
+
+
 

@@ -14,7 +14,7 @@ function Home() {
             <div className="row justify-content-center">
                 <div className="col-11 justify-content-center my-2 mx-2">
                     <div className="my-5 mt-5 text-center">
-                        <img style={{marginBottom:'100px',marginTop:'-20px'}} src={RickMorty} alt={"Rick and Morty"} loading="lazy"/>
+                        <img style={{marginBottom:'100px',marginTop:'-20px', width:'60%'}} src={RickMorty} alt={"Rick and Morty"} loading="lazy"/>
                         <RickandMortyCardsGrid
                             characters={RickandMortyHome}
                             col={{xs: 12, sm: 11, md: 9, lg: 7, xl: 5}}
