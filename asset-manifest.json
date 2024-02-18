@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Progettoapplicazioniwebdef/static/css/main.5dc4bf6c.css",
-    "main.js": "/Progettoapplicazioniwebdef/static/js/main.018895b6.js",
+    "main.css": "/Progettoapplicazioniwebdef/static/css/main.706b9667.css",
+    "main.js": "/Progettoapplicazioniwebdef/static/js/main.de2a00c3.js",
     "static/js/453.330f00f2.chunk.js": "/Progettoapplicazioniwebdef/static/js/453.330f00f2.chunk.js",
     "static/media/SingleDay-Regular.ttf": "/Progettoapplicazioniwebdef/static/media/SingleDay-Regular.b03a555b9b646676c723.ttf",
     "static/media/RickandMortyInfo.png": "/Progettoapplicazioniwebdef/static/media/RickandMortyInfo.b839a017ff23f6262263.png",
@@ -11,12 +11,12 @@
     "static/media/disco.png": "/Progettoapplicazioniwebdef/static/media/disco.afc48ce88348cba6fc5c.png",
     "static/media/rick_and_morty.ttf": "/Progettoapplicazioniwebdef/static/media/rick_and_morty.a5bad8e90ebe8ef35945.ttf",
     "index.html": "/Progettoapplicazioniwebdef/index.html",
-    "main.5dc4bf6c.css.map": "/Progettoapplicazioniwebdef/static/css/main.5dc4bf6c.css.map",
-    "main.018895b6.js.map": "/Progettoapplicazioniwebdef/static/js/main.018895b6.js.map",
+    "main.706b9667.css.map": "/Progettoapplicazioniwebdef/static/css/main.706b9667.css.map",
+    "main.de2a00c3.js.map": "/Progettoapplicazioniwebdef/static/js/main.de2a00c3.js.map",
     "453.330f00f2.chunk.js.map": "/Progettoapplicazioniwebdef/static/js/453.330f00f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5dc4bf6c.css",
-    "static/js/main.018895b6.js"
+    "static/css/main.706b9667.css",
+    "static/js/main.de2a00c3.js"
   ]
 }
