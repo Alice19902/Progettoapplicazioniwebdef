@@ -27,15 +27,12 @@ function RickandMortyDetail() {
             </div>
 
             <div className={style.nav_detail}>
-                <div className="button_home">{prev ? (
-                    <NavLink className={`${style.prev} ${style.navItem}`} to={`/character/${id - 1}`}>&lt; Prev</NavLink>
+                {prev ? (
+                    <NavLink className="button_home" to={`/character/${id - 1}`}>&lt; Prev</NavLink>
                 ) : null}
-                </div>
-                <div className="button_home">
                 {next ? (
-                    <NavLink className={`${style.next} ${style.navItem}`} to={`/character/${id + 1}`}>Next &gt;</NavLink>
+                    <NavLink className="button_home" to={`/character/${id + 1}`}>Next &gt;</NavLink>
                 ) : null}</div>
-            </div>
         </div>
     );
 }

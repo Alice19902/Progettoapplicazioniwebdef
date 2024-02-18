@@ -7,7 +7,7 @@
 .nav_detail {
     width: 100%;
     display: flex;
-    margin-top: -180px;
+    margin-top: -220px;
     justify-content: space-between;
     padding: 4px;
     text-transform: uppercase;
@@ -23,15 +23,6 @@
     margin-left: auto;
 }
 
-
-
-.navItem {
-     color: #78c850;
- }
-
-.navItem:hover {
-    color: #010612;
-}
 
 
 
